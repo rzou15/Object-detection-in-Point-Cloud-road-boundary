@@ -28,10 +28,10 @@ and generate a `point_cloud_camera_coord.csv` file, which has 4 columns (X-coord
 3. If you already have `point_cloud_camera_coord.pcd` file, you can commemt the line 335 to line 339
 
 ## Required Environment
-  Python 3.6
-  C++
-  PCL 1.8.1 for C++
-  opencv for C++
+  Python 3.6  
+  C++  
+  PCL 1.8.1 for C++  
+  opencv for C++  
 
 ## Notes
 
