@@ -7,7 +7,7 @@ In this project, please search references, design and prototype your road  bound
 
 ## Run Instructions
 
-1. Open a Terminal at the project directory, run
+1. Open a Terminal at the project directory, run:
 ```
 $ python3 CoordTransform.py
 ```
@@ -23,15 +23,15 @@ and generate a `point_cloud_camera_coord.csv` file, which has 4 columns (X-coord
 ### Notes:
 1. Make sure the file `final_project_point_cloud.fuse` is in the directory `./final_project_data/`
 
-2. Make sure the "point_cloud_camera_coord.csv" is under the correct directory
+2. Make sure the `point_cloud_camera_coord.csv` is under the correct directory
 
 3. If you already have `point_cloud_camera_coord.pcd` file, you can commemt the line 335 to line 339
 
 ## Required Environment
   Python 3.6
   C++
-	PCL 1.8.1 for C++
-	opencv for C++
+  PCL 1.8.1 for C++
+  opencv for C++
 
 ## Notes
 
@@ -52,7 +52,6 @@ and generate a `point_cloud_camera_coord.csv` file, which has 4 columns (X-coord
 
 ## Reference
 1. http://www.jeffdelmerico.com/wp-content/uploads/2014/03/pcl_tutorial.pdf
-
 2. http://pointclouds.org/
 
 
